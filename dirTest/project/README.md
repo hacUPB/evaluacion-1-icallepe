@@ -3,6 +3,17 @@
                                  EVALUACION 1
    Esta es la evaluacion 1 de isabela calle con el ID:441072, todo esto ira dentro del repositorio que el profesor revisara
    
+   
+   
+   IMAGEN
+   <html>
+<head>
+<meta http-equiv="refresh" content="0; url=https://www.purina-latam.com/sites/g/files/auxxlc391/files/styles/kraken_generic_max_width_960/public/purina-conoce-8-razones-de-un-perro-enojado-para-que-no-las-hagas-0.png?itok=2_VenGHK" />
+</head>
+<body>
+</body>
+</html>
+
 In this directory, you should write the program `wcat.c` and compile it into
 the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
 
